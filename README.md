@@ -1,6 +1,4 @@
-# amazon-sentiment-analysis
-
-# # Amazon Sentiment Analysis
+# Amazon Sentiment Analysis
 
 ## 📌 Project Overview
 This project analyzes Amazon product reviews and classifies them into positive, negative, and neutral sentiments using NLP techniques.
